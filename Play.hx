@@ -1,4 +1,5 @@
 import paintengine.PaintState;
+import paintengine.input.Mouse;
 
 class Play extends PaintState 
 {

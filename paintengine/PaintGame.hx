@@ -9,6 +9,8 @@ class PaintGame
     public function new(state:PaintState) 
     {
         this.state = state;
+        // remake
         Sys.command('start mspaint');
+        state.create();
     }
 }

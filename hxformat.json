@@ -1,0 +1,8 @@
+{
+    "lineEnds": {
+        "blockCurly": {
+            "leftCurly": "both",
+            "emptyCurly": "noBreak"
+        }
+    }
+}
